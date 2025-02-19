@@ -1,6 +1,10 @@
 # WHMCS Admin Panel - Deutsche Sprachdatei
 
 Diese Datei enthält die deutsche Übersetzung für das WHMCS Admin Panel.
+Die Übersetzung ist noch nicht ganz vollständig, wird aber über die Zeit aktualisiert.
+Die Datei wurde maschinell übersetzt und sollte vor dem produktiven Einsatz überprüft werden.
+
+Hilfe bei der Übersetzung ist wäre mega! Gerne einen Pull Request erstellen.
 
 ## Dateiinformationen
 
