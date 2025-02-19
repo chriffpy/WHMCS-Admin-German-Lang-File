@@ -16,7 +16,7 @@ Hilfe bei der Übersetzung ist wäre mega! Gerne einen Pull Request erstellen.
 
 ## Installation
 
-1. Kopieren Sie die `german.php` in das Verzeichnis:
+1. Kopiere die `german.php` in das Verzeichnis:
    ```
    /admin/lang/
    ```
